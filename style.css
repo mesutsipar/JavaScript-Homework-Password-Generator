@@ -1,0 +1,61 @@
+body { 
+  background-color: black;
+}
+
+
+h1 { 
+  background-color: yellow;
+  margin: 0px 250px 0px 250px;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: initial;
+  font-size: 50px;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  padding-top: 0px;
+}
+
+.container-header {
+    text-align: center;
+}
+
+.container {
+  background-color: gray;
+  border-radius: 5px;
+  border-width: 1px;
+  font-size: 18px;
+  margin: 0 auto;
+  max-width: 500px;
+  padding: 50px 60px;
+}
+
+.btn {
+  border: none;
+  background-color: blue;
+  border-radius: 25px;
+  color: white;
+  display: inline-block;
+  font-size: 22px;
+  line-height: 22px;
+  margin: 16px 16px 16px 20px;
+  padding: 14px 34px;
+  text-align: center;
+}
+
+#password {
+  width: 100%;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 85px;
+  font-size: 1.2rem;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  border-radius: 6px;
+  resize: none;
+  overflow: hidden;
+}
